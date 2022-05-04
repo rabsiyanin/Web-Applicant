@@ -9,10 +9,10 @@ Main features are:
 
 ## Installation
 
+This installation was successfully completed by myself on an independent Ubuntu 18.04 with no problems occurred. Still, if there are any issues, feel free to label them. Thanks in advance.
+
 In order to complete the installation it is necessary to have installed Node.js and node-gyp. 
 The actions below are shown as commands completed in a command prompt.
-
-All actions have been successfully completed by myself on an independent Ubuntu 18.04.
 
 1. Clone the repository: `git clone https://github.com/rabsiyanin/Web-Applicant.git`.
 
