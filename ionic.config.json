@@ -1,0 +1,7 @@
+{
+  "name": "AbitProd",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}

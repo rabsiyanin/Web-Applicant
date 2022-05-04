@@ -1,0 +1,24 @@
+<ion-header>
+  <ion-navbar color="primary">
+    <ion-title>
+      Подбор вуза
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  <ion-list>
+    <ion-list-header>
+      <div class="bar bar-header bar-balanced">
+        <h1 class="title">Выберите 3 предмета:</h1>
+      </div>
+    </ion-list-header>
+    <ion-item *ngFor="let item of exams">
+      <ion-label>{{ item }}</ion-label>
+      <ion-checkbox (click)="toggleCh(item)"></ion-checkbox>
+    </ion-item>
+    <ion-grid>
+      <button ion-button outline (click)="f()">Подобрать вузы</button>
+    </ion-grid>
+  </ion-list>
+</ion-content>
