@@ -11,11 +11,12 @@ Main features are:
 
 In order to complete the installation it is better to know and have installed Node.js and node-gyp. 
 The actions below are shown as commands completed in a command prompt.
+All actions have been successfully completed by myself on an independent Ubuntu 18.04.
 
 1. Clone the repo: `git clone https://github.com/rabsiyanin/Web-Applicant.git`
 
 2. Install npm package with `npm install` or  `npm install --force`.
 
-3. Install ionic framework with: `npm install -g @ionic/cli` and `npm install @ionic/app-scripts@latest --save-dev`
+3. Install ionic framework with: `npm install -g @ionic/cli` and `npm install @ionic/app-scripts@latest --save-dev`.
 
 4. Launch the server. Open `http://localhost:8100` in your browser or run `ionic serve`.
