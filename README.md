@@ -9,7 +9,7 @@ Main features are:
 
 ## Installation
 
-In order to complete the installation it is better to know and have installed Node.js and node-gyp. 
+In order to complete the installation it is necessary to have installed Node.js and node-gyp. 
 The actions below are shown as commands completed in a command prompt.
 
 All actions have been successfully completed by myself on an independent Ubuntu 18.04.
