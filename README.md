@@ -14,9 +14,9 @@ The actions below are shown as commands completed in a command prompt.
 
 All actions have been successfully completed by myself on an independent Ubuntu 18.04.
 
-1. Clone the repo: `git clone https://github.com/rabsiyanin/Web-Applicant.git`
+1. Clone the repository: `git clone https://github.com/rabsiyanin/Web-Applicant.git`
 
-2. Install npm package with `npm install` or  `npm install --force`.
+2. Install the project and the needed node modules with `npm install` or  `npm install --force`.
 
 3. Install ionic framework with: `npm install -g @ionic/cli` and `npm install @ionic/app-scripts@latest --save-dev`.
 
