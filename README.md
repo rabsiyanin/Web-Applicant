@@ -1,6 +1,6 @@
 # Web-Applicant
 
-An application to the coursework "Разработка веб-приложения для выбора вуза абитуриентом в Нижнем Новгороде / Development of a web application for choosing a University by an applicant in Nizhny Novgorod". Its main aim is to help an applicant in choosing university after finishing high school.
+An application to the coursework "Development of a web application for choosing a University by an applicant in Nizhny Novgorod". Its main aim is to help an applicant in choosing university after finishing high school.
 
 Main features are:
 * Browse available universities, its faculties and specialties.
@@ -11,6 +11,7 @@ Main features are:
 
 In order to complete the installation it is better to know and have installed Node.js and node-gyp. 
 The actions below are shown as commands completed in a command prompt.
+
 All actions have been successfully completed by myself on an independent Ubuntu 18.04.
 
 1. Clone the repo: `git clone https://github.com/rabsiyanin/Web-Applicant.git`
