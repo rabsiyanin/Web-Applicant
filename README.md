@@ -20,4 +20,6 @@ All actions have been successfully completed by myself on an independent Ubuntu 
 
 3. Install ionic framework with: `npm install -g @ionic/cli` and `npm install @ionic/app-scripts@latest --save-dev`.
 
-4. Launch the server. Open `http://localhost:8100` in your browser or run `ionic serve`.
+4. Launch the server by running `ionic serve`. 
+
+5. Open `http://localhost:8100` in your browser.
