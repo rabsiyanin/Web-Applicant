@@ -1,4 +1,4 @@
-# Web-Applicant
+## Web-Applicant
 
 An application to the coursework "Development of a web application for choosing a University by an applicant in Nizhny Novgorod". Its main aim is to help an applicant in choosing university after finishing high school.
 
